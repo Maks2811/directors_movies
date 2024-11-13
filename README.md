@@ -10,7 +10,7 @@ https://aw-demo.ru/public/dashboard/-RN2poaBK1FvDZ9UxuqV0aK4-Su-mHrX
 
 ## Реализация
 Все действия выполнялись в  BI-системе Analytic Workspace (AW BI). Это Российская BI-система, обладающая гибким функционалом, позволяющая  внутри себя выполнять, обработку данных с 
-помощью SQL и pyspark-скриптов, использующая в качетве оркестратора ETL- Apache Airflow <br>
+помощью SQL и pyspark-скриптов, использующая в качестве оркестратора ETL- Apache Airflow <br>
 
 За основу был взят датасет с Kaggle (https://www.kaggle.com/datasets/nayanack/movies-and-directors-dataset-for-film-analytics). В его основе 2 файла CSV, которые и были импортированы в качестве источников. <br>
 На дашборде размещены следующие виджеты:  <br>
